@@ -1,0 +1,18 @@
+00:00:04.756105 VirtualBox GUI VM Selector Window 6.1.14 r140239 win.amd64 (Sep  4 2020 08:29:36) release log
+00:00:04.756111 Log opened 2020-11-05T01:02:28.440927000Z
+00:00:04.756114 Build Type: release
+00:00:04.756126 OS Product: Windows 10
+00:00:04.756129 OS Release: 10.0.18362
+00:00:04.756131 OS Service Pack: 
+00:00:04.849809 DMI Product Name: X441BA
+00:00:04.860483 DMI Product Version: 1.0       
+00:00:04.860529 Firmware type: UEFI
+00:00:04.861409 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:04.861476 Host RAM: 3968MB (3.8GB) total, 1169MB available
+00:00:04.861485 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:04.861486 Process ID: 17456
+00:00:04.861487 Package type: WINDOWS_64BITS_GENERIC
+00:00:04.862087 Qt version: 5.6.2
+00:00:05.145232 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:07.740185 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:08.225869 refreshCertificates/#3: Found 1/76 SSL certs we/you trust (previously 1/76).

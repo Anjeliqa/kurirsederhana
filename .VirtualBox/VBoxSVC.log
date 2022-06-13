@@ -1,0 +1,65 @@
+00:00:00.001403 main     VirtualBox COM Server 6.1.14 r140239 win.amd64 (Sep  4 2020 08:29:36) release log
+00:00:00.001406 main     Log opened 2020-11-15T10:51:24.108497100Z
+00:00:00.001407 main     Build Type: release
+00:00:00.001419 main     OS Product: Windows 10
+00:00:00.001420 main     OS Release: 10.0.18363
+00:00:00.001421 main     OS Service Pack: 
+00:00:00.164734 main     DMI Product Name: X441BA
+00:00:00.198379 main     DMI Product Version: 1.0       
+00:00:00.198404 main     Firmware type: UEFI
+00:00:00.199048 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.199082 main     Host RAM: 3968MB (3.8GB) total, 1973MB available
+00:00:00.199088 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.199089 main     Process ID: 6988
+00:00:00.199090 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.760200          VirtualBox: object creation starts
+00:00:00.760758          Home directory: 'C:\Users\ASUS.LAPTOP-AAGGQP98\.VirtualBox'
+00:00:00.760946          Installed Drivers:
+00:00:00.764320            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.1.14.40239)
+00:00:00.765705            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.1.14.40239)
+00:00:00.766577            C:\WINDOWS\system32\DRIVERS\VBoxDrv.sys (Version: 6.1.14.40239)
+00:00:00.768338            C:\WINDOWS\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.1.14.40239)
+00:00:00.780265          Loading settings file "C:\Users\ASUS.LAPTOP-AAGGQP98\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.783256          usbLibGetDevices: Starting USB device enumeration
+00:00:00.888521          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#VID_0438&PID_7900#5&26376d8&0&1#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:00:00.890695          usbLibGetDevices: Found 2 USB devices, 0 captured
+00:00:00.890794          USB: Unknown USB device detected (idVendor: 0x04ca, idProduct: 0x3010)
+00:00:00.890865          USB: Unknown USB device detected (idVendor: 0x13d3, idProduct: 0x5a01)
+00:00:00.990150          HostDnsMonitor: initializing
+00:00:01.012050          HostDnsMonitor: updating information
+00:00:01.012106          HostDnsMonitor: old information
+00:00:01.012108            no server entries
+00:00:01.012109            no domain set
+00:00:01.012110            no search string entries
+00:00:01.012111          HostDnsMonitor: new information
+00:00:01.012111            server 1: 111.94.159.250
+00:00:01.012112            server 2: 140.0.223.250
+00:00:01.012113            server 3: 202.73.99.2
+00:00:01.012114            no domain set
+00:00:01.012115            no search string entries
+00:00:01.171849          VD: VDInit finished with VINF_SUCCESS
+00:00:01.176461          Loading settings file "C:\Users\ASUS.LAPTOP-AAGGQP98\VirtualBox VMs\windows 10\windows 10.vbox" with version "1.15-windows"
+00:00:01.216821          Loading settings file "C:\Users\ASUS.LAPTOP-AAGGQP98\VirtualBox VMs\openSUSE\openSUSE.vbox" with version "1.16-windows"
+00:00:01.218308          VirtualBox: object created
+00:00:32.676559 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:00:32.783424 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#VID_0438&PID_7900#5&26376d8&0&1#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:00:32.783888 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:00:47.132283          Launched VM: 65826912 pid: 1668 (0x684) frontend: GUI/Qt name: openSUSE
+00:00:57.376843          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:01:27.649257          Saving settings file "C:\Users\ASUS.LAPTOP-AAGGQP98\VirtualBox VMs\openSUSE\openSUSE.vbox" with version "1.16-windows"
+00:29:47.731189 dns-monitor HostDnsMonitor: updating information
+00:29:47.731580 dns-monitor HostDnsMonitor: unchanged
+00:51:13.571678          Saving settings file "C:\Users\ASUS.LAPTOP-AAGGQP98\VirtualBox VMs\openSUSE\openSUSE.vbox" with version "1.16-windows"
+00:51:16.100396          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={Saved screenshot thumbnail data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:51:16.169760          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={Saved screenshot thumbnail data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:51:16.327606 SaveState Saving settings file "C:\Users\ASUS.LAPTOP-AAGGQP98\VirtualBox VMs\openSUSE\openSUSE.vbox" with version "1.16-windows"
+00:51:16.767191          Saving settings file "C:\Users\ASUS.LAPTOP-AAGGQP98\VirtualBox VMs\openSUSE\openSUSE.vbox" with version "1.16-windows"
+00:51:39.319157          Saving settings file "C:\Users\ASUS.LAPTOP-AAGGQP98\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:51:39.374799          Saving settings file "C:\Users\ASUS.LAPTOP-AAGGQP98\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:51:46.619562 main     VirtualBox: object deletion starts
+00:51:46.640574 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\ASUS.LAPTOP-AAGGQP98\VirtualBox VMs\windows 10\windows 10.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:51:46.665766 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\ASUS.LAPTOP-AAGGQP98\VirtualBox VMs\openSUSE\openSUSE.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:51:46.754322 main     HostDnsMonitor: shutting down ...
+00:51:46.755329 main     HostDnsMonitor: shut down
+00:51:46.766396 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:51:46.793773 main     VirtualBox: object deleted

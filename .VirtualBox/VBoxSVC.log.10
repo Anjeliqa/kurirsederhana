@@ -1,0 +1,85 @@
+00:00:00.010856 main     VirtualBox COM Server 6.1.14 r140239 win.amd64 (Sep  4 2020 08:29:36) release log
+00:00:00.010860 main     Log opened 2020-10-21T11:33:30.446927500Z
+00:00:00.010861 main     Build Type: release
+00:00:00.010872 main     OS Product: Windows 10
+00:00:00.010874 main     OS Release: 10.0.18362
+00:00:00.010875 main     OS Service Pack: 
+00:00:00.346575 main     DMI Product Name: X441BA
+00:00:00.389734 main     DMI Product Version: 1.0       
+00:00:00.389758 main     Firmware type: UEFI
+00:00:00.390329 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.390362 main     Host RAM: 3968MB (3.8GB) total, 1249MB available
+00:00:00.390369 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.390370 main     Process ID: 12416
+00:00:00.390371 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.808738          VirtualBox: object creation starts
+00:00:00.843831          Home directory: 'C:\Users\ASUS.LAPTOP-AAGGQP98\.VirtualBox'
+00:00:00.845496          Installed Drivers:
+00:00:00.866628            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.1.14.40239)
+00:00:00.872600            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.1.14.40239)
+00:00:00.888784            C:\WINDOWS\system32\DRIVERS\VBoxDrv.sys (Version: 6.1.14.40239)
+00:00:00.900062            C:\WINDOWS\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.1.14.40239)
+00:00:00.935521          Loading settings file "C:\Users\ASUS.LAPTOP-AAGGQP98\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.967084          usbLibGetDevices: Starting USB device enumeration
+00:00:01.076022          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#VID_0438&PID_7900#5&26376d8&0&1#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:00:01.078176          usbLibGetDevices: Found 2 USB devices, 0 captured
+00:00:01.082894          USB: Unknown USB device detected (idVendor: 0x04ca, idProduct: 0x3010)
+00:00:01.085679          USB: Unknown USB device detected (idVendor: 0x13d3, idProduct: 0x5a01)
+00:00:01.462001          HostDnsMonitor: initializing
+00:00:01.486272          HostDnsMonitor: updating information
+00:00:01.502546          HostDnsMonitor: old information
+00:00:01.502550            no server entries
+00:00:01.502552            no domain set
+00:00:01.502553            no search string entries
+00:00:01.502554          HostDnsMonitor: new information
+00:00:01.502554            server 1: 111.94.159.250
+00:00:01.502555            server 2: 140.0.223.250
+00:00:01.502556            server 3: 202.73.99.2
+00:00:01.502557            no domain set
+00:00:01.502558            no search string entries
+00:00:01.715582          VD: VDInit finished with VINF_SUCCESS
+00:00:01.724769          VirtualBox: object created
+00:01:10.138564 createBase Saving settings file "C:\Users\ASUS.LAPTOP-AAGGQP98\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:11.214404          Saving settings file "C:\Users\ASUS.LAPTOP-AAGGQP98\VirtualBox VMs\windows 10\windows 10.vbox" with version "1.15-windows"
+00:01:11.405969          Saving settings file "C:\Users\ASUS.LAPTOP-AAGGQP98\VirtualBox VMs\windows 10\windows 10.vbox" with version "1.15-windows"
+00:01:11.500568          Saving settings file "C:\Users\ASUS.LAPTOP-AAGGQP98\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:11.722548          Saving settings file "C:\Users\ASUS.LAPTOP-AAGGQP98\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:11.808177          Saving settings file "C:\Users\ASUS.LAPTOP-AAGGQP98\VirtualBox VMs\windows 10\windows 10.vbox" with version "1.15-windows"
+00:05:47.871330          Saving settings file "C:\Users\ASUS.LAPTOP-AAGGQP98\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:06:35.179713 createBase Saving settings file "C:\Users\ASUS.LAPTOP-AAGGQP98\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:06:36.139215          Saving settings file "C:\Users\ASUS.LAPTOP-AAGGQP98\VirtualBox VMs\windows 10\windows 10.vbox" with version "1.15-windows"
+00:06:36.252016          Saving settings file "C:\Users\ASUS.LAPTOP-AAGGQP98\VirtualBox VMs\windows 10\windows 10.vbox" with version "1.15-windows"
+00:06:36.324400          Saving settings file "C:\Users\ASUS.LAPTOP-AAGGQP98\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:06:36.398745          Saving settings file "C:\Users\ASUS.LAPTOP-AAGGQP98\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:06:36.462908          Saving settings file "C:\Users\ASUS.LAPTOP-AAGGQP98\VirtualBox VMs\windows 10\windows 10.vbox" with version "1.15-windows"
+00:07:03.729410          Saving settings file "C:\Users\ASUS.LAPTOP-AAGGQP98\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:07:04.137852          Saving settings file "C:\Users\ASUS.LAPTOP-AAGGQP98\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:07:07.091511          Saving settings file "C:\Users\ASUS.LAPTOP-AAGGQP98\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:07:07.205735          Saving settings file "C:\Users\ASUS.LAPTOP-AAGGQP98\VirtualBox VMs\windows 10\windows 10.vbox" with version "1.15-windows"
+00:07:33.961528 dns-monitor HostDnsMonitor: updating information
+00:07:33.961596 dns-monitor HostDnsMonitor: unchanged
+00:07:36.987696          Launched VM: 66736880 pid: 9196 (0x23ec) frontend: GUI/Qt name: windows 10
+00:07:47.379114          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:07:48.831858          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:08:00.813903          Saving settings file "C:\Users\ASUS.LAPTOP-AAGGQP98\VirtualBox VMs\windows 10\windows 10.vbox" with version "1.15-windows"
+00:37:40.005843 dns-monitor HostDnsMonitor: updating information
+00:37:40.164490 dns-monitor HostDnsMonitor: unchanged
+01:07:42.306463 dns-monitor HostDnsMonitor: updating information
+01:07:42.393853 dns-monitor HostDnsMonitor: unchanged
+01:37:43.291353 dns-monitor HostDnsMonitor: updating information
+01:37:43.341071 dns-monitor HostDnsMonitor: unchanged
+01:41:44.308384          Saving settings file "C:\Users\ASUS.LAPTOP-AAGGQP98\VirtualBox VMs\windows 10\windows 10.vbox" with version "1.15-windows"
+01:43:01.841838          Saving settings file "C:\Users\ASUS.LAPTOP-AAGGQP98\VirtualBox VMs\windows 10\windows 10.vbox" with version "1.15-windows"
+01:43:04.723814          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={Saved screenshot thumbnail data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+01:43:04.828352 SaveState Saving settings file "C:\Users\ASUS.LAPTOP-AAGGQP98\VirtualBox VMs\windows 10\windows 10.vbox" with version "1.15-windows"
+01:43:06.806688          Saving settings file "C:\Users\ASUS.LAPTOP-AAGGQP98\VirtualBox VMs\windows 10\windows 10.vbox" with version "1.15-windows"
+01:43:13.511580          Saving settings file "C:\Users\ASUS.LAPTOP-AAGGQP98\VirtualBox VMs\windows 10\windows 10.vbox" with version "1.15-windows"
+01:43:19.318072          Saving settings file "C:\Users\ASUS.LAPTOP-AAGGQP98\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:43:22.969791          Saving settings file "C:\Users\ASUS.LAPTOP-AAGGQP98\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:43:24.247313          Saving settings file "C:\Users\ASUS.LAPTOP-AAGGQP98\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:43:41.710969 main     VirtualBox: object deletion starts
+01:43:41.789587 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\ASUS.LAPTOP-AAGGQP98\VirtualBox VMs\windows 10\windows 10.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+01:43:42.131860 main     HostDnsMonitor: shutting down ...
+01:43:42.132119 main     HostDnsMonitor: shut down
+01:43:42.231887 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+01:43:42.273950 main     VirtualBox: object deleted
